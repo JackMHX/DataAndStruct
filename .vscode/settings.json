@@ -35,7 +35,9 @@
     "clang.completion.enable":true,// 效果效果比cpptools要好
     "editor.fontSize": 20,
     "files.associations": {
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp"
     }
     
 }
